@@ -73,9 +73,10 @@
       <path value="$PROJECT_DIR$/NetaquaV3/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/NetaquaV3/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/NetaquaV3/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/NetaquaV3/vendor/jadjoubran/laravel-angular" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/NetaquaV3/vendor/autoload.php" />
